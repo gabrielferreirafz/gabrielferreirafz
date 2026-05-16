@@ -1,5 +1,9 @@
 # Gabriel Ferreira
-My name is Gabriel Ferreira, 20 years old, and currently studying Software Engineering at UNDB. I’m committed to continuous self-development, always aiming to improve physically, mentally, and professionally. At the moment, I’m focused on back-end development with Python through Alura, and I plan to work with Java as well in the back-end field in the future.
+I'm Gabriel Ferreira, 20 years old, studying Software Engineering at UNDB (Unidade de Ensino Superior Dom Bosco). I focus on Backend and Data development, and I'm deeply passionate about AI.
+
+My goal is to continuously deepen my technical knowledge and become a professional who truly masters what he does — someone capable of building real solutions through technology, helping not only businesses but society as a whole.
+
+Currently studying: Python | Linux | Git and Github
 ## Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
 ## Contacts
